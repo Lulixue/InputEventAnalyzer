@@ -1,6 +1,8 @@
 # InputEventAnalyzer
 Analyze text output by adb shell getevevent \[-lrtp\]
 
+![analyzer](/static/input_event_analyzer.png)
+
 ## Functions
 * Auto Detect Multi-touch protocol A and B
 * Getevent text to points
